@@ -1,0 +1,4 @@
+put ar_single_sparse_new and ar_multi_sparse_new under pspin/examples/
+source EVs
+make deploy driver
+run
